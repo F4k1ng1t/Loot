@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Arena++.unity
+    guid: c88c209967485fa408334e185591eb2a
+  - enabled: 0
+    path: Assets/Scenes/Moving.unity
+    guid: 7b90aaa619793484cb30a28111834bc8
+  - enabled: 1
+    path: Assets/Scenes/Messing_with_1st_person.unity
+    guid: 5d28c252afbe55c469f2b04aee9bbdb6
+  m_configObjects: {}
